@@ -5,8 +5,8 @@ Saroj Gopali
 Brittany Love 
 Kyle Wipfli 
 CS 5311 : R Programming for Machine Learning and Data Analytics 
-Final Project: Stock Prediction Machine Learning Algorithm"
-#The program has developed in R programing language with Shiny Dashboard
+Final Project: Stock Prediction Machine Learning Algorithm
+# The program has developed in R programing language with Shiny Dashboard
 Shiny application that serves to forecast stock prices using Seasonal and Non-Seasonal ARIMA  and
 univariate LSTM. It Will plot these predictions and will also calculate the mean 
 absolute errors (MAE) for both forecasts through ARIMA & LSTM.
