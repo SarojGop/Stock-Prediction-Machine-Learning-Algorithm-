@@ -11,4 +11,4 @@ Shiny application that serves to forecast stock prices using ARIMA and
 univariate LSTM. It Will plot these predictions and will also calculate the mean 
 absolute errors (MAE) for both forecasts through ARIMA & LSTM.
 Stocks data are taken from Yahoo.com
-To predict 
+To predict Stock from_data and to_data and days_FC need to change accordingly 
